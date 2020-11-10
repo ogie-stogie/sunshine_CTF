@@ -8,7 +8,7 @@ Matt Evans<br>
 John Tiffany<br>
 <br>
 For this ctf, we were able to get 7 flags as a team (2 pegasus, 2 speedruns, 1 web and 2 misc)<br>
-I personally contributed to the web flag and spent the rest of my time focused on a crpto challenge and speedrun #3.<br>
+I personally contributed to the web flag and spent the rest of my time focused on a crpto challenge and speedrun #2.<br>
 <br>
 ###web: Password Pandemonimum
 To begin this CTF, I immediately tackled the web challenge for this CTF. When opening this challenge, you are greeted with an airline login where the username can be anything but the password has to meet a set of challenging criteria.<br>
